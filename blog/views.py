@@ -13,11 +13,17 @@ posts=[
         'content': 'django project',
         'date_posted': 'March 27, 2024'
     },
-         {
+    {
         'author':  'Maggy',
         'title': 'blog 3 Odoo',
         'content': 'odoo project',
         'date_posted': 'April 22, 2024'
+    },
+    {
+        'author':  'Joy',
+        'title': 'blog 4 Odoo',
+        'content': 'odoo project',
+        'date_posted': 'April 23, 2024'
     }
 ]
 
