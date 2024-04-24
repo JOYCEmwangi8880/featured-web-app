@@ -24,6 +24,12 @@ posts=[
         'title': 'blog 4 Odoo',
         'content': 'odoo project',
         'date_posted': 'April 23, 2024'
+    },
+        {
+        'author':  'Serah',
+        'title': 'blog 5 Kotlin',
+        'content': 'Kotlin Basics',
+        'date_posted': 'April 24, 2024'
     }
 ]
 
