@@ -53,6 +53,14 @@ posts=[
         'content': 'Kotlin Basics',
         'date_posted': 'May 13, 2024'
     
+    },
+     {
+            
+        'author':  'newton',
+        'title': 'blog 9 nextjs',
+        'content': 'react Basics',
+        'date_posted': 'May 14, 2024'
+    
     }
 
 
