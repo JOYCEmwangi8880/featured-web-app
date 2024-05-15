@@ -46,30 +46,9 @@ posts=[
         'date_posted': 'May 1, 2024'
     
     },
-    {
-            
-        'author':  'serah',
-        'title': 'blog 8 Kotlin',
-        'content': 'Kotlin Basics',
-        'date_posted': 'May 13, 2024'
+   
     
-    },
-     {
-            
-        'author':  'newton',
-        'title': 'blog 9 nextjs',
-        'content': 'react Basics',
-        'date_posted': 'May 14, 2024'
-    
-    },
-         {
-            
-        'author':  'adams',
-        'title': 'blog 10 nextjs',
-        'content': 'react Basics',
-        'date_posted': 'May 15, 2024'
-    
-    }
+        
 
 
 ]
