@@ -61,6 +61,14 @@ posts=[
         'content': 'react Basics',
         'date_posted': 'May 14, 2024'
     
+    },
+         {
+            
+        'author':  'adams',
+        'title': 'blog 10 nextjs',
+        'content': 'react Basics',
+        'date_posted': 'May 15, 2024'
+    
     }
 
 
