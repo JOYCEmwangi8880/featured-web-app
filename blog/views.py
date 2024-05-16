@@ -39,22 +39,8 @@ posts=[
         'date_posted': 'April 30, 2024'
     
     },
-    {
-            
-        'author':  'sera',
-        'title': 'blog 7 Kotlin',
-        'content': 'Kotlin Basics',
-        'date_posted': 'May 1, 2024'
     
-    },
-    {
-            
-        'author':  'anita',
-        'title': 'blog 8 Kotlin',
-        'content': 'Kotlin Basics',
-        'date_posted': 'May 16, 2024'
     
-    },
    
     
         
