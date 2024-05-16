@@ -47,6 +47,14 @@ posts=[
         'date_posted': 'May 1, 2024'
     
     },
+    {
+            
+        'author':  'anita',
+        'title': 'blog 8 Kotlin',
+        'content': 'Kotlin Basics',
+        'date_posted': 'May 16, 2024'
+    
+    },
    
     
         
