@@ -31,14 +31,7 @@ posts=[
         'content': 'Kotlin Basics',
         'date_posted': 'April 24, 2024'
     },
-    {
-            
-        'author':  'kairo',
-        'title': 'blog 6 Kotlin',
-        'content': 'Kotlin Basics',
-        'date_posted': 'April 30, 2024'
     
-    },
     
     
    
