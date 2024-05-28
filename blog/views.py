@@ -55,12 +55,7 @@ posts=[
         'content': ' project',
         'date_posted': 'May 25, 2024'
     },
-    {
-        'author':  'muya',
-        'title': 'blog 10 Machine learning',
-        'content': ' project',
-        'date_posted': 'May 27, 2024'
-    },
+
     
     
    
