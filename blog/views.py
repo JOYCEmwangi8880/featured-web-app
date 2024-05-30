@@ -43,12 +43,7 @@ posts=[
         'content': ' project',
         'date_posted': 'May 23, 2024'
     },
-    {
-        'author':  'roy',
-        'title': 'blog 8 Machine learning',
-        'content': ' project',
-        'date_posted': 'May 24, 2024'
-    },
+    
    
 
     
