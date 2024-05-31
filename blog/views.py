@@ -37,12 +37,7 @@ posts=[
         'content': ' project',
         'date_posted': 'May 22, 2024'
     },
-    {
-        'author':  'qoey',
-        'title': 'blog 7 Machine learning',
-        'content': ' project',
-        'date_posted': 'May 23, 2024'
-    },
+    
     
    
 
