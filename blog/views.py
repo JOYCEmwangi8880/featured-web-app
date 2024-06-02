@@ -31,12 +31,7 @@ posts=[
         'content': ' project',
         'date_posted': 'May 21, 2024'
     },
-    {
-        'author':  'myles',
-        'title': 'blog 6 Machine learning',
-        'content': ' project',
-        'date_posted': 'May 22, 2024'
-    },
+    
     
     
    
