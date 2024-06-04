@@ -25,12 +25,7 @@ posts=[
         'content': 'odoo project',
         'date_posted': 'April 23, 2024'
     },
-    {
-        'author':  'annita',
-        'title': 'blog 5 Machine learning',
-        'content': ' project',
-        'date_posted': 'May 21, 2024'
-    },
+    
     
     
     
