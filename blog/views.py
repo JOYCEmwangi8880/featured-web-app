@@ -25,6 +25,12 @@ posts=[
         'content': ' Basics',
         'date_posted': 'june 12, 2024'
     },
+    {
+        'author':  'Myles',
+        'title': 'blog 5 Data Science $ Analytics',
+        'content': ' Basics',
+        'date_posted': 'june 14, 2024'
+    },
     
     
    
