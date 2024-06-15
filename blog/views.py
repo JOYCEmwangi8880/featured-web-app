@@ -27,9 +27,9 @@ posts=[
     },
     {
         'author':  'Myles',
-        'title': 'blog 5 Data Science $ Analytics',
+        'title': 'blog 5 odoo',
         'content': ' Basics',
-        'date_posted': 'june 14, 2024'
+        'date_posted': 'june 15, 2024'
     },
     
     
