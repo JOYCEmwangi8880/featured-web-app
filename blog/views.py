@@ -33,9 +33,9 @@ posts=[
     },
     {
         'author':  'Evans',
-        'title': 'blog 6 odoo',
+        'title': 'blog 6 goolang',
         'content': ' Basics',
-        'date_posted': 'june 17, 2024'
+        'date_posted': 'june 18, 2024'
     },
     
     
