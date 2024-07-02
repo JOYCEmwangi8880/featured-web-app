@@ -26,10 +26,16 @@ posts=[
         'date_posted': 'june 15, 2024'
     },
     {
-        'author':  'Evans',
+        'author':  'Fr',
         'title': 'blog 6 golang',
         'content': ' Basics',
         'date_posted': 'june 18, 2024'
+    },
+    {
+        'author':  'Lm',
+        'title': 'blog 7 machine learning',
+        'content': ' Basics',
+        'date_posted': 'june 19, 2024'
     },
     
     
