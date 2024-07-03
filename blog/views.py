@@ -32,11 +32,18 @@ posts=[
         'date_posted': 'june 18, 2024'
     },
     {
-        'author':  'Lm',
+        'author':  'LM',
         'title': 'blog 7 machine learning',
         'content': ' Basics',
         'date_posted': 'june 19, 2024'
     },
+        {
+        'author':  'NI',
+        'title': 'blog 8 machine learning',
+        'content': ' Basics',
+        'date_posted': 'june 20, 2024'
+    },
+    
     
     
    
