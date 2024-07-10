@@ -7,7 +7,7 @@ posts=[
         'content': 'coding',
         'date_posted': 'March 26, 2024'
     },
-     {
+    {
         'author':  'Mwangi',
         'title': 'blog 2 Django',
         'content': 'django project',
@@ -31,13 +31,7 @@ posts=[
         'content': ' Basics',
         'date_posted': 'june 18, 2024'
     },
-    {
-        'author':  'LM',
-        'title': 'blog 7 machine learning',
-        'content': ' Basics',
-        'date_posted': 'june 19, 2024'
-    },
-    
+
     
     
    
