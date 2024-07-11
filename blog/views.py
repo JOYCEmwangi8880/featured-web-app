@@ -25,12 +25,7 @@ posts=[
         'content': ' Basics',
         'date_posted': 'june 15, 2024'
     },
-    {
-        'author':  'Fr',
-        'title': 'blog 6 golang',
-        'content': ' Basics',
-        'date_posted': 'june 18, 2024'
-    },
+    
 
     
     
