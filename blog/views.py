@@ -19,12 +19,7 @@ posts=[
         'content': ' Basics',
         'date_posted': 'june 12, 2024'
     },
-    {
-        'author':  'LM',
-        'title': 'blog 5 odoo',
-        'content': ' Basics',
-        'date_posted': 'june 15, 2024'
-    },
+   
     
 
     
