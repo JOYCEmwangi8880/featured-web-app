@@ -13,12 +13,7 @@ posts=[
         'content': 'django project',
         'date_posted': 'March 27, 2024'
     },
-    {
-        'author':  'Myles',
-        'title': 'blog 4 Data Science $ Analytics',
-        'content': ' Basics',
-        'date_posted': 'june 12, 2024'
-    },
+   
    
     
 
