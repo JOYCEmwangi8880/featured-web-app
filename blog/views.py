@@ -21,7 +21,7 @@ posts=[
     },
     {
         'author':  'Joy',
-        'title': 'blog 3 odoo',
+        'title': 'blog 4 odoo',
         'content': 'odoo project',
         'date_posted': 'March 27, 2024'
     },
