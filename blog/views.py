@@ -17,7 +17,7 @@ posts=[
         'author':  'Joy',
         'title': 'blog 3 odoo',
         'content': 'odoo project',
-        'date_posted': 'March 27, 2024'
+        'date_posted': 'March 28, 2024'
     },
     
    
